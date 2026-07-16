@@ -1,0 +1,7 @@
+# see https://gitlab.com/fdroid/fdroidserver/blob/2.4.5/examples/config.yml
+sdk_path: $ANDROID_HOME
+keystore: keystore.p12
+keystorepass: 6IATka/TSMn2ijfdW6Fde2yndsVlBql3wiSDEWO1qCQ=
+keypass: 6IATka/TSMn2ijfdW6Fde2yndsVlBql3wiSDEWO1qCQ=
+repo_keyalias: ste-Inspiron-3595
+keydname: CN=ste-Inspiron-3595, OU=F-Droid

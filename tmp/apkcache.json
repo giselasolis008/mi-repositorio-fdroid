@@ -1,0 +1,40 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "app-release.apk": {
+    "hash": "541dd7ddefa20deab2b36a9ce0b33f7e6d5a7d32e214e3397522880d25120010",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.example.amphibians.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.example.amphibians",
+    "versionCode": 1,
+    "name": "Amphibians",
+    "versionName": "1.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "b534ae6dc94174a4918ab8b31e4fc776",
+    "signer": "57197f6f6517d9b44c90802595b5e4ff89b9e565788c52b65b5801ccf319b5a8",
+    "size": 7423964,
+    "apkName": "app-release.apk",
+    "added": 1784180996.110625
+  }
+}
