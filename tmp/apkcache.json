@@ -36,5 +36,37 @@
     "size": 7423964,
     "apkName": "app-release.apk",
     "added": 1784180996.110625
+  },
+  "CafeteriaUPA-1.0.0.apk": {
+    "hash": "f4e9dd5ae3c5ded5ab9d7431ba2511c40c647e7ba3079bb3be9da4bc6cbb7f7b",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.example.cafeteriaupa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.example.cafeteriaupa",
+    "versionCode": 1,
+    "name": "CafeteriaUPA",
+    "versionName": "1.0",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "378c165cdc61906cc5528a683d54842a",
+    "signer": "a65492d1ef3fcaee194c86d78995ba685c266281064b96498f692dea69d085d1",
+    "size": 8224117,
+    "apkName": "CafeteriaUPA-1.0.0.apk",
+    "added": 1785542925.794971
   }
 }
